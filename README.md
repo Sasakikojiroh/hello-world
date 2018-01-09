@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans
+
+I'll be the master of coding and build my own robots!
